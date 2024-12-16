@@ -1,8 +1,8 @@
-# SamsTrack Rest API Documentation 
+# AttendancePro Rest API Documentation 
 
 ## About the Project
 
-**SamsTrack** is a Spring Boot REST API project designed to streamline the process of managing student attendance in educational institutions. It allows faculty members to record attendance for specific subjects and provides interfaces for viewing and managing these records.
+**AttendancePro** is a Spring Boot REST API project designed to streamline the process of managing student attendance in educational institutions. It allows faculty members to record attendance for specific subjects and provides interfaces for viewing and managing these records.
 
 ### Objective
 
@@ -17,7 +17,7 @@ The project involves developing a REST API to manage student attendance, includi
 
 ## Project Structure
 
-SamsTrack follows a **layered architecture pattern**:
+AttendancePro follows a **layered architecture pattern**:
 
 1. **Controller Layer**: Handles HTTP requests, validates input, and sends responses.
 2. **Service Layer**: Contains business logic and coordinates between controllers and DAOs.
