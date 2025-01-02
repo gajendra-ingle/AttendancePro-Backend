@@ -100,6 +100,7 @@ AttendancePro follows a **layered architecture pattern**:
 ## Database
 
 An Entity-Relationship (ER) diagram defines relationships between entities such as Students, Subjects, Faculty, and Attendance Records. 
-[ER - Diagram]()
+
+![ER Diagram](/ER-Diagram.png)
 
 
